@@ -127,5 +127,10 @@
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
 		}
+		{
+			"name": "tiktok",
+			"description": "CDN for tiktok",
+			"domain_files": ["tiktok.txt"]
+		}
 	]
 }
